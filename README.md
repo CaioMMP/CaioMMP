@@ -1,4 +1,4 @@
-<center><h1>Caio Mamede</h1></center>
+<h1 align="center">Caio Mamede</h1>
 <div>
    <a href="https://github.com/CaioMMP">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioMMP&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
